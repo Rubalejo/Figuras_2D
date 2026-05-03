@@ -38,5 +38,17 @@ Desarrollar un aplicativo que permita visualizar la representación gráfica de 
 •	El programa debe contar con validaciones en todos los formularios para evitar fallos al momento de generar las figuras.
 
 
+## **Conceptos Aplicados**
+
+• Programación Orientada a Objetos (POO)
+
+• Manejo de eventos
+
+• Renderizado gráfico con Graphics
+
+• Escalado proporcional
+
+• Validación de datos (TryParse)
+
 
 
