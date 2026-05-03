@@ -4,9 +4,11 @@
 Aplicación de escritorio desarrollada en C# utilizando Windows Forms (.NET Framework), que permite dibujar diferentes figuras geométricas en 2D mediante la clase Graphics.
 
 ##Enunciado
+
 Desarrollar una aplicación de escritorio en C# con Windows Forms (.NET Framework) que permita dibujar el siguiente conjunto de figuras geométricas básicas en 2D, utilizando la clase Graphics.
 
 ##Introducción
+
 En el presente informe detallaremos 24 tipos de figuras hechas en grupo durante el periodo académico del primer parcial apoyándonos del software “Visual Studio Installer”, el cual nos permite gestionar, instalar, modificar y actualizar el entorno de desarrollo integrado (IDE) especialmente en entornos de interfaces de usuario como Windows Forms  C#.
 Abordaremos conocimientos practicados en clases enfocándonos en una estructura clara que permita visualizar múltiples figuras geométricas mediante formularios independientes colocados dentro de un menú principal. 
 
