@@ -17,17 +17,24 @@ Desarrollar un aplicativo que permita visualizar la representación gráfica de 
 
 ## **Objetivo Especicos**
 •	Aplicar conocimientos de programación orientada a objetos para la estructura del programa.
+
 •	Validar de manera efectiva cada figura dentro del formulario.
+
 •	Garantizar una fácil navegación entre las interfaces de los formularios permitiendo una interfaz clara, ordenada y fácil de manipular.
 
 ## **Requerimientos del Sistema** 
 ### **Item 1: Requisitos Funcionales**
 •	El programa debe permitir acceder al menú y visualizar todas las figuras disponibles.
+
 •	El programa debe contar con su formulario independiente de cada figura.
+
 •	El programa debe visualizar gráficamente la figura elegida por el usuario y así mismo los valores de salida.
+
 ### **Item 2: Requisitos No Funcionales**
 •	El programa debe estar estructurado correctamente enfocándose a los principios de programación orientada a objetos (POO).
+
 •	El programa debe contar con comentarios accesibles y entendibles para un posible mantenimiento del mismo si es que se requiera.
+
 •	El programa debe contar con validaciones en todos los formularios para evitar fallos al momento de generar las figuras.
 
 
